@@ -1,3 +1,0 @@
-# Travel-Managment-System
-Travel Management System project in java
-........
